@@ -3,8 +3,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Recker-Dev&theme=tokyonight" alt="Recker-Dev" /></a> </p>
 
+- 🔭 IMy noticeable projects include **Project Sanket (Sign Language Detection Using ML) && Face Detection Based Attendance System**
 - 🔭 I’m currently working on **Project Sanket (Sign Language Detection Using ML)**
-- 🌱 I’m currently learning **Java, DSA, ML**
+- 🌱 I’m currently learning **Java, DSA, ML, GAI, LLMops**
 
 - 📫 How to reach me **reckerdev@gmail.com**
 

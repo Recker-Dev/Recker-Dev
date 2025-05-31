@@ -19,10 +19,17 @@
 
 ### 🌟 Featured Projects
 
-- 🚀 **Mini-CDSS** – Clinical Decision Support System using LLMs and real-time search
-- 🌿 **AgroSphere** – Agricultural CDSS (FastAPI + RAG)
-- 🔬 **Sanket** – Sign Language to Text ML model
-- 🚨 **Face Detection Attendance** – OpenCV + Firebase based smart tracking
+- 🩺 [**Mini-CDSS**](https://github.com/Recker-Dev/Mini-CDSS) – Medical Clinical Decision Support Agentic System using LLMs and real-time search, deployed using FastAPI and Streamlit.
+- 🌿 [**AgroSphere**](https://github.com/Recker-Dev/AgroSphere-FastAPI) – One step stop for any agriculture based queries (GenAI + Classicial ML/DL). 
+- 🚨 [**IoT-Based Network Attack Predictor**](https://github.com/Recker-Dev/IOT-Healthcare-Network-Traffic-Attack-Predictor) – A classical DL model working on network data, achieving 97.6% precision and 87.5% F1-score for non-attack class; deployed with FastAPI and Streamlit.
+- 🔬 [**Project Sanket**](https://github.com/Recker-Dev/Project-Sanket) – ML-based Sign Language to Text translation prototype.
+
+---
+
+### 🧪 Internship Projects
+
+- 🔍 [**Exploring-NLP**](https://github.com/Recker-Dev/Exploring-NLP) – Classical & Modern NLP workflows: TF-IDF, Word2Vec, Transformers (DistilBERT, RoBERTa, GPT-2, T5); Text Classification, Summarization, Chatbot demos.
+- 🏗️ [**PreProd Internship Work**](https://github.com/Recker-Dev/PreProd-Internship-Work) – Code contributions during internship including exploratory tasks, proof-of-concept pipelines, and preprocessing workflows.
 
 ---
 
@@ -57,7 +64,7 @@
 ### 🛠️ Languages & Tools
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=py,cpp,java,js,react,tailwind,nodejs,express,mongodb,postgresql,flask,django,git,docker,tensorflow,opencv,pandas,postman&perline=8" />
+  <img src="https://skillicons.dev/icons?i=py,cpp,java,mongodb,postgresql,git,docker,pytorch,opencv,pandas,postman&perline=8" />
 </p>
 
 ---

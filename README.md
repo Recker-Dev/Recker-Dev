@@ -31,6 +31,7 @@ Along the way, I’ve explored:
 - 🧠 Modular, scalable project structures for real-world AI apps
 - 🧩 Hobbies: tweaking Linux setups, watching anime, and occasionally yelling at my broken code 😤
 
+Check Out my [**Resume**](https://github.com/Recker-Dev/Resume/blob/main/Resume-3.pdf)
 ---
 
 ### 🌟 Featured Projects

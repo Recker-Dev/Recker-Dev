@@ -33,6 +33,12 @@
 
 ---
 
+### 🎮 Game Development
+
+- 🕹️ [**Mario-ish**](https://reckerdev.itch.io/mario-ish) – A 2D side-scrolling platformer built in Unity, inspired by classic Mario mechanics. Includes multiple levels, basic AI enemies, collectibles, and smooth controls.
+
+---
+
 ### 🚧 Currently...
 
 - ⚙️ Sharpening my **DSA skills** while preparing for upcoming **placements**.
@@ -64,7 +70,7 @@
 ### 🛠️ Languages & Tools
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=py,cpp,java,mongodb,postgresql,git,docker,pytorch,opencv,pandas,postman&perline=8" />
+  <img src="https://skillicons.dev/icons?i=py,cpp,java,mongodb,postgresql,git,docker,pytorch,opencv,pandas,postman,unity&perline=8" />
 </p>
 
 ---

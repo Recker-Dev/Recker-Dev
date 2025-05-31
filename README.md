@@ -19,7 +19,7 @@
 
 ### 🌟 Featured Projects
 
-- 🩺 [**Mini-CDSS**](https://github.com/Recker-Dev/Mini-CDSS) – Medical Clinical Decision Support Agentic System using LLMs and real-time search, deployed using FastAPI and Streamlit.
+- 🩺 [**Mini-CDSS**](https://github.com/Recker-Dev/Mini-CDSS-Streamlit-Frontend) – Medical Clinical Decision Support Agentic System using LLMs and real-time search, deployed using FastAPI and Streamlit, explore the [backend](https://github.com/Recker-Dev/Mini-CDSS-FastAPI)code.
 - 🌿 [**AgroSphere**](https://github.com/Recker-Dev/AgroSphere-FastAPI) – One step stop for any agriculture based queries (GenAI + Classicial ML/DL). 
 - 🚨 [**IoT-Based Network Attack Predictor**](https://github.com/Recker-Dev/IOT-Healthcare-Network-Traffic-Attack-Predictor) – A classical DL model working on network data, achieving 97.6% precision and 87.5% F1-score for non-attack class; deployed with FastAPI and Streamlit.
 - 🔬 [**Project Sanket**](https://github.com/Recker-Dev/Project-Sanket) – ML-based Sign Language to Text translation prototype.

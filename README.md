@@ -26,10 +26,15 @@
 
 ---
 
-### 🎓 Currently
+### 🚧 Currently...
 
-- 🌟 Exploring **GenAI, OCR, and Agentic AI Workflows**
-- 🔄 Improving in **Java, DSA, ML, LLMops**
+- ⚙️ Sharpening my **DSA skills** while preparing for upcoming **placements**.
+- 🧠 Exploring **Agentic AI frameworks**, especially **LangGraph** for modular reasoning systems.
+- 🔧 Rebuilding core **DL/ML algorithms from scratch** to deepen intuition beyond libraries.
+- 🌐 Designing a scalable **IoT-based Facial Recognition Attendance System** (edge + cloud).
+- 🛠️ Leveling up in **MLops & LLMops**, with focus on production-ready modular project structures.
+- 🎮 On the horizon: **game engines**, **robotics**, and **reinforcement learning** – areas I can't wait to dive into.
+
 
 ---
 

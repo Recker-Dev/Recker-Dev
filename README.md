@@ -17,6 +17,22 @@
 
 ---
 
+### 💫 About Me
+
+Hey, I’m **Swapnendu Banik**, but I go by **ReckerDev** in the digital world 🧑‍💻  
+I’m **23**, currently in my final year of B.Tech at **VIT Bhopal**, and I’ve been building & breaking things in code since **2022**.
+
+What started as an interest in **building tic-tac-toe game**  
+has now become a journey into **Machine Learning**, **Generative AI**, **Agentic Systems**, and even some **Game Development** 🎮.
+
+Along the way, I’ve explored:
+- 🤖 Deep Learning, NLP, LLMOps
+- 🧱 Building backend systems using FastAPI, Firebase, Docker
+- 🧠 Modular, scalable project structures for real-world AI apps
+- 🧩 Hobbies: tweaking Linux setups, watching anime, and occasionally yelling at my broken code 😤
+
+---
+
 ### 🌟 Featured Projects
 
 - 🩺 [**Mini-CDSS**](https://github.com/Recker-Dev/Mini-CDSS-Streamlit-Frontend) – Medical Clinical Decision Support Agentic System using LLMs and real-time search, deployed using FastAPI and Streamlit, explore the [backend](https://github.com/Recker-Dev/Mini-CDSS-FastAPI)code.

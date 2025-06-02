@@ -1,3 +1,16 @@
+<table style="width:100%; border:none; padding:10px;">
+<table width="100%;" align="center">
+  <tbody><tr>
+    <td align="center" width="50%">
+      <a href="https://github.com/Recker-Dev/Resume/blob/main/Resume-3.pdf">
+        <img src="https://camo.githubusercontent.com/27c4cb52aa815ada0efd11c706e0c33e44a2bd0f73b6e006460b24996ca1e0aa/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f436c69636b25323048657265253230466f72253230526573756d652d3834346566653f7374796c653d666f722d7468652d6261646765" alt="Resume" data-canonical-src="https://img.shields.io/badge/Check%20Out%20My%20Resume-5C294C?style=for-the-badge" style="max-width: 100%;">
+      </a>
+    </td>
+    
+  </tr>
+</tbody></table>
+
+
 <h1 align="center">🌟 Hey, I'm <strong>Recker</strong> 🚀</h1>
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Recker-Dev&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
@@ -31,7 +44,6 @@ Along the way, I’ve explored:
 - 🧠 Modular, scalable project structures for real-world AI apps
 - 🧩 Hobbies: tweaking Linux setups, watching anime, and occasionally yelling at my broken code 😤
 
-Check Out my [**Resume**](https://github.com/Recker-Dev/Resume/blob/main/Resume-3.pdf)
 ---
 
 ### 🌟 Featured Projects
